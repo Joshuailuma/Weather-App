@@ -2,7 +2,7 @@
 
 This application uses an API to fetch the current weather and location of a given place.
 
-## Home
+## Home Screen 
 ![alt text](https://github.com/Joshuailuma/Weather-App/blob/master/Screenshot-1.png?raw=true)
 
 ## Current weather in Edo
